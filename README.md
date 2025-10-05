@@ -1,1 +1,1 @@
-# assignment2-maxheap
+# assignment2-kadanes
